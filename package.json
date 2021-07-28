@@ -1,0 +1,27 @@
+{
+  "name": "json-schema",
+  "version": "1.0.0",
+  "main": "./dist/index.js",
+  "scripts": {
+    "test": "ts-node test"
+  },
+  "keywords": [
+    "json",
+    "schema",
+    "valid"
+  ],
+  "author": "imnull@outlook.com",
+  "license": "ISC",
+  "devDependencies": {
+    "ts-node": "^10.1.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/imnull/json-schema.git"
+  },
+  "bugs": {
+    "url": "https://github.com/imnull/json-schema/issues"
+  },
+  "homepage": "https://github.com/imnull/json-schema#readme",
+  "description": ""
+}
