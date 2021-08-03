@@ -23,5 +23,8 @@
     "url": "https://github.com/imnull/json-schema/issues"
   },
   "homepage": "https://github.com/imnull/json-schema#readme",
-  "description": ""
+  "description": "",
+  "dependencies": {
+    "json-schema-traverse": "^1.0.0"
+  }
 }
